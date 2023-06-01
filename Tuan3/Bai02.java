@@ -16,5 +16,6 @@ public class Bai02{
             if (a[i] < 0)
                 System.out.print(a[i] + "; ");
         }
+        sc.close();
     }
 }

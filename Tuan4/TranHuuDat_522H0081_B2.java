@@ -102,7 +102,7 @@ public class TranHuuDat_522H0081_B2{
 		}
 	}
 
-	//2. Tim phan tu lon nhat
+	//1. Tim phan tu lon nhat
 	public static int findMax(int a[], int n){
 		int max = a[0];
 		for(int i=0; i<n; i++){

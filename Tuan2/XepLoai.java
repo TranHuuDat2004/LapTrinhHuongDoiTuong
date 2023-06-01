@@ -32,7 +32,7 @@ public class XepLoai{
         diemtb = diemTB(toan, van, anh);
         xetdiem(diemtb);
 
-
+        sc.close();
 
     }
 }

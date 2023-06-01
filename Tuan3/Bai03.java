@@ -18,6 +18,7 @@ public class Bai03{
             }
         
         }
+        sc.close();
 
         System.out.println("Gia tri lon nhat la: " + max);
     }

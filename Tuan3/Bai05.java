@@ -17,5 +17,6 @@ public class Bai05{
             sum = sum + a[i];
         }
         System.out.println("Tong cac gia tri trong mang la: " + sum);
+        sc.close();
     }
 }

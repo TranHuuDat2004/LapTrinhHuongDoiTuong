@@ -22,5 +22,6 @@ public class PrimeNumber {
                 System.out.println(num + " khong phai la so nguyen to");
 
         }
+        sc.close();
     }
 }
