@@ -1,0 +1,2 @@
+Student [ name:Dat, id:1001, gpa:7.97]
+Student [ name:Vinh, id:1002, gpa:9.9]
